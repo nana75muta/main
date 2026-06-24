@@ -1,0 +1,38 @@
+```html
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <title>ななのホームページ</title>
+
+    <style>
+        body {
+            text-align: center;
+            font-family: sans-serif;
+            margin-top: 100px;
+        }
+
+        button {
+            font-size: 30px;
+            padding: 20px 50px;
+            margin-bottom: 50px;
+        }
+    </style>
+</head>
+<body>
+
+    <button>勝ち</button>
+
+    <h1>ななのホームページ</h1>
+
+    <p>ななです。</p>
+
+    <p>仕事を辞めたいです。</p>
+
+    <p>マイペースに実績を作りたいです。</p>
+
+    <p>億万長者になりたいです。幸せになりたいです。</p>
+
+</body>
+</html>
+```

@@ -21,8 +21,6 @@
 </head>
 <body>
 
-    <button>勝ち</button>
-
     <h1>ななのホームページ</h1>
 
     <p>ななです。</p>
@@ -33,6 +31,7 @@
 
     <p>億万長者になりたいです。幸せになりたいです。</p>
 
+    <button onclick="alert('勝ち！')">勝ち</button>
 </body>
 </html>
 ```
